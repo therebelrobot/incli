@@ -1,6 +1,6 @@
 {
   "name": "incli",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "a light wrapper for yargs to streamline cli creation - node",
   "main": "incli.js",
   "scripts": {

@@ -1,0 +1,23 @@
+{
+  "name": "incli",
+  "version": "0.0.0",
+  "description": "a light wrapper for yargs to streamline cli creation - node",
+  "main": "incli.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/therebelrobot/incli.git"
+  },
+  "author": "Oz Haven <npm@therebelrobot.com> (@therebelrobot)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/therebelrobot/incli/issues"
+  },
+  "homepage": "https://github.com/therebelrobot/incli#readme",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "yargs": "^11.0.0"
+  }
+}
